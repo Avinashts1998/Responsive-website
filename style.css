@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem01 {
+    color: #323f4b;
+    font-family: roboto;
+}
+
+#navItem02 {
+    color: #323f4b;
+    font-family: roboto;
+}
+
+#navItem03 {
+    color: #323f4b;
+    font-family: roboto;
+}
+
+#navItem04 {
+    color: #323f4b;
+    font-family: roboto;
+
+}
+
+.logo {
+    height: 60px;
+    widows: 60px;
+}
+
+.banner-section-bg-continer {
+    background-image: url("https://image.freepik.com/free-photo/beef-burger-with-chopped-onions-tomatoes-inside-bread-bun-with-french-fries-stone-platter_114579-1865.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.text-parts {
+    color: white;
+    font-size: 60px;
+    font-weight: 400;
+    font-family: bree serif;
+}
+
+.para-graph {
+    font-size: 30px;
+    font-family: roboto;
+    color: white;
+    font-weight: 400;
+
+}
+
+.button1 {
+    color: white;
+    background-color: #d0b200;
+    border: 0px;
+    height: 40px;
+    width: 100px;
+    border-radius: 7px;
+    margin-right: 20px;
+}
+
+.button2 {
+    color: white;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    height: 40px;
+    width: 100px;
+    border-radius: 7px;
+
+}
+
+
+
+
+.why-choos-us-section {
+    background-color: #f9fbfe;
+
+}
+
+.why-choos-us-headline {
+    font-family: roboto;
+    color: #231fa1;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.why-choos-us-section-discription {
+    color: #0d5927;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.why-choose-us-card {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.card-image {
+    height: 300px;
+    width: 300px;
+}
+
+.why-choose-us-card-title {
+    color: #149c8a;
+    font-family: bree serif;
+    font-size: 26px;
+    font-weight: 500;
+
+}
+
+.why-choose-us-card-discription {
+    color: black;
+    font-size: 18px;
+    font-family: roboto;
+    font-weight: 550;
+}
+
+.offer-text {
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
+
+
+.explore-menu-section {
+    color: white;
+    padding: 20px;
+}
+
+.explore-menu-headline {
+    color: #05783c;
+    font-size: 40px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.explore-menu-discription {
+    color: #b0b0b0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.non-veg-image {
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.non-veg-headline {
+    color: #bd1e0f;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.view-all-link {
+    color: #106b00;
+}
+
+.menu-item-card {
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.veg-starters {
+    color: #106b00;
+    font-size: 28px;
+    font-family: roboto;
+    font-weight: bold;
+
+}
+
+.fish-items {
+    color: #05a1f0;
+    font-size: 28px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.Soup-items {
+    color: #ffb300;
+    font-size: 28px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.desert-items {
+    color: #d166a7;
+    font-size: 28px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.nudels-items {
+    color: #ff4d4d;
+    font-size: 28px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.Chinese-items {
+    color: #1a66ff;
+    font-size: 28px;
+    font-family: roboto;
+    font-weight: bold;
+
+}
+
+.juice-items {
+    color: #2eb82e;
+    font-size: 28px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+
+
+.healthy-food-section {
+    background-color: white;
+}
+
+.card-image {
+    border-radius: 20px;
+    width: 270px;
+}
+
+.main-headline {
+    color: #00004d;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.healthy-food-discription {
+    color: #1a1a1a;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.button {
+    color: white;
+    background-color: #206020;
+    height: 40px;
+    width: 130px;
+    border: 0px;
+    border-radius: 5px;
+    font-family: bree serif;
+    font-weight: normal;
+}
+
+
+
+
+.deslivery-and-payment-section {
+    background-color: white;
+}
+
+.section-image {
+    width: 280px;
+}
+
+.delivery-and-payment-headline {
+    color: #00004d;
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.payment-discription {
+    color: #737373;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.order-button {
+    color: white;
+    border-radius: 7px;
+    border: 0px;
+    background-color: #ffcc00;
+    height: 37px;
+    width: 100px;
+
+}
+
+.payment-cards-image {
+    height: 80px;
+    width: 120px;
+}
+
+
+
+.thanking-to-customers {
+    background-color: white;
+}
+
+.thanking-section-main-headline {
+    color: #00004d;
+    font-size: 40px;
+}
+
+.thanking-section-main-discription {
+    color: #a3a3c2;
+}
+
+.tanking-section-button {
+    color: white;
+    height: 40px;
+    width: 120px;
+    border: 0px;
+    background-color: #e60000;
+    border-radius: 4px;
+    border-top: 10px;
+}
+
+
+
+.fololw-us-section {
+    background-color: #004d00;
+}
+
+.follow-us-main-headline {
+    color: white;
+    font-family: roboto;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+
+.icon {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+
+.follow-us-bottum-section {
+    color: white;
+}
+
+.top-sectoin-image {
+    height: 200px;
+    width: 350px;
+    margin-top: 30px;
+    border-radius: 7px;
+}
+
+.bottum-section-headline {
+    color: #c70200;
+    font-family: Cursive;
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.bottum-section-mail-id {
+    color: #8c8b8b;
+}
+
+.bottum-section-address {
+    color: black;
+    font-weight: 500;
+}
